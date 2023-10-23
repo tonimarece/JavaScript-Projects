@@ -1,0 +1,20 @@
+body {
+    background: #ffffff;
+}
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    background-color: black;
+    height: 100px;
+    width: 70%;
+    text-align: center;
+    padding-bottom: 12px;
+    color: #ffffff;
+    font-size: 100px;
+    font-family: 'Times New Roman';
+    letter-spacing: 8px;
+    box-shadow: 0 4vw 8vw 1vw rgba(27, 2, 2, 0.8);
+}
